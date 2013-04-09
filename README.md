@@ -14,3 +14,4 @@ install vagrant and just run
 
     vagrant up
 
+then you could use `vagrant ssh` to use your vm 
