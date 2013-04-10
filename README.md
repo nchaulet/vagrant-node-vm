@@ -10,6 +10,10 @@ install a vm with
 
 ## install
 
+install submodule 
+
+     git submodule update --init
+
 install vagrant and just run 
 
     vagrant up
