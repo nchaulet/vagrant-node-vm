@@ -20,6 +20,9 @@ package { 'vim':
 } ->
 package { 'mongodb':
     ensure => present
+} ->
+package { 'redis-server':
+    ensure => present
 }
 
 # npm modules

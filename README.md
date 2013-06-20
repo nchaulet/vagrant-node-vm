@@ -1,10 +1,11 @@
-# Vagrant config for nodejs
+# Vagrant config for nodejs dev environnement
 
 install a vm with 
 
 * nodejs
 * npm
 * mongodb
+* redis
 * essentials vim, git
 * npm package mocha & coffee-scrip
 
