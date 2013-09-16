@@ -7,7 +7,7 @@ install a vm with
 * mongodb
 * redis
 * essentials vim, git
-* npm package mocha & coffee-scrip
+* npm package mocha & coffee-script
 
 ## install
 
